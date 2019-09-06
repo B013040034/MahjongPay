@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AndroidMobileTeam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AutomaticPx2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AutomaticPx2.wiki" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChtGreenAppResetlet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChtSmartGreenPark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Citus_Engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LteCollectionSdkSample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TaiPowerAmi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TourTaiwan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android_so" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/naviking3d" vcs="Git" />
+  </component>
+</project>

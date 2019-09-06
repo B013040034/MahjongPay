@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MahjongPay</string>
+    <string name="menu_new_member">新增成員</string>
+    <string name="direction1">東</string>
+    <string name="direction2">南</string>
+    <string name="direction3">西</string>
+    <string name="direction4">北</string>
+</resources>
